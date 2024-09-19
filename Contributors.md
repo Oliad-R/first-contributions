@@ -8029,6 +8029,7 @@ vivek saskar
 - [Klyde Bairulla](https://github.com/codingKlyde) **Hello World!**
 - [kasraoui ahmed](https://github.com/kasraouiah) **Hello from ahmed!**
 - [Vito93](https://github.com/1effortlessness) hello from vito!
+- [Oliad R](https://github.com/Oliad-R)**First open-source contribution**
 - [Montserrat Lopez](https://github.com/cutmountain) **So excited with my first contribution!**
 - [Pedro Castro](https://github.com/peucastro/) **Hello from Porto-PT!**
 
